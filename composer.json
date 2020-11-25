@@ -1,0 +1,17 @@
+{
+    "name": "tho/mvc-php-test",
+    "authors": [
+        {
+            "name": "Tho Huynh",
+            "email": "huynhductho96@gmail.com"
+        }
+    ],
+    "require": {
+        "aliyuncs/oss-sdk-php": "^2.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Application\\": "application/"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "mvc-php-test",
+  "version": "1.0.0",
+  "description": "mvc project test",
+  "main": "index.js",
+  "repository": "https://github.com/thohuynh/mvc-php-test.git",
+  "author": "Thor <huynhductho96@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "moment": "^2.29.1"
+  }
+}
